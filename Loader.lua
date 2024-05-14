@@ -2,7 +2,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "ZapHub",
 	Text = "Loading Utils..."
 })
-loadstring(game:HttpGet('https://egorikusa.space/78eede770504999a0cbdf477.lua'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/F7TmPwU6'))()
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "ZapHub",
